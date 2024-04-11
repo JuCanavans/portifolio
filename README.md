@@ -7,6 +7,6 @@
 </div>
 
 ## 🌐 Website
-Visit the [TechBlog](https://nike-jordan-rho.vercel.app/) to explore the live site.
+Visit the [Portifolio](https://portifolio-xi-weld.vercel.app/) to explore the live site.
 
 ### <p align="center">Developer Julio Silva.</p>
